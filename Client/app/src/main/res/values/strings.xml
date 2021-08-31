@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Remote Volume</string>
+    <string name="ip_text">IP Address</string>
+    <string name="port_text">Port</string>
+    <string name="connect_text">Connect</string>
+    <string name="input_text">Input here:</string>
+    <string name="send_text">Send</string>
+</resources>
